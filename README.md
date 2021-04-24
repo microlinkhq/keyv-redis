@@ -5,7 +5,6 @@
 > Redis storage adapter for [Keyv](https://github.com/lukechilds/keyv).
 
 ![Last version](https://img.shields.io/github/tag/microlinkhq/keyv-redis.svg?style=flat-square)
-[![Build Status](https://img.shields.io/travis/com/microlinkhq/keyv-redis/master.svg?style=flat-square)](https://travis-ci.com/microlinkhq/keyv-redis)
 [![Coverage Status](https://img.shields.io/coveralls/microlinkhq/keyv-redis.svg?style=flat-square)](https://coveralls.io/github/microlinkhq/keyv-redis)
 [![NPM Status](https://img.shields.io/npm/dm/@microlink/keyv-redis.svg?style=flat-square)](https://www.npmjs.org/package/@microlink/keyv-redis)
 
